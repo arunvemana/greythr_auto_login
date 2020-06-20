@@ -1,0 +1,6 @@
+{
+  "driver_path" : "data\\chromedriver.exe",
+  "url" : "https://<companyname>.greythr.com/",
+  "username" : "<username>",
+  "password" : "<password>"
+}
